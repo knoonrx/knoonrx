@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div>
+  <a href="https://github.com/knoonrx">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=knoonrx&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/knoonrx">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knoonrx&hide=html&layout=compact=true&theme=dark" />
+  </a>
+</div>
+
+
 <!--
 **knoonrx/knoonrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
